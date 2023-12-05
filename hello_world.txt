@@ -1,2 +1,2 @@
-my name is odin!
-my name is odin 
+The odin project
+
